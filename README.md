@@ -26,7 +26,7 @@ Step 4: Set path variable to the environment. Paste this command to the terminal
 $ export PATH=$PATH:/home/path/to/the/driver/folder/
 Eg: $ export PATH=$PATH:/home/harshit/Desktop/WhatsAppBot
 ```
-Step 5: run JUSTDAIL_SCRAPPING.py using Python3
+Step 5:run JUSTDAIL_SCRAPPING.py using Python3
 ```sh
-$ python3 whatsapp_bot.py
+$ python3 JUSTDAIL_SCRAPPING.py
 ```
